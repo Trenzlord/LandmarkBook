@@ -28,7 +28,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         landmarkNames.append("Great Wall")
         landmarkNames.append("Kremlin")
         landmarkNames.append("Stonehenge")
-        landmarkNames.append("Taj Mahal")
+        landmarkNames.append("Tac Mahal")
         
         landmarkImages.append(UIImage(named: "colles.jpeg")!)
         landmarkImages.append(UIImage(named: "china.jpeg")!)
